@@ -1,6 +1,9 @@
+import Button from "./components/Button";
 
 var App = () => 
   
-  <div>hello</div>
+  <div>
+    <Button/>
+  </div>
 
 export default App;
